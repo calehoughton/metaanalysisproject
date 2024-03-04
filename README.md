@@ -5,3 +5,5 @@ beetleanalysis.R contains the code used to conduct linear models for each beetle
 beetlemetaaanalysis.R contains the code use to conduct the metanalysis with the metafor package.
 
 beetlelocation.R contains the code used to plot the locations of available studies in R.
+
+beetledata4.xlsx contains the original data file used.
